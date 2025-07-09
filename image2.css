@@ -1,0 +1,116 @@
+.main{
+    display: flex;
+
+}
+.nav{
+    width: 50px;
+    height: 20vh;
+}
+.lo{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+}
+.im{
+    width: 40px;
+    height: 40px;
+}
+.set{
+    width: 50px;
+    height: 20px;
+
+    position: fixed;
+    top: 350px;
+    right: 0px;
+    border: none;
+    border-radius: 15% 0 0 15%;
+   z-index: 1;
+}
+img{
+    width: 50px;
+    height: 50px;
+    border-radius: 15% 0 0 15%;
+}
+.c1{
+    width: 20%;
+    height: 100vh;
+    background-color: whitesmoke;
+}
+.pr{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    margin-top: 50px;
+    margin-left: 80px;
+    border: 2px solid blue;
+}
+.pro{
+    width: 20px;
+    height: 20px;
+}
+.about{
+    width: 200px;
+    height: 40px;
+    background-color: blue;
+    border: none;
+    border-radius: 10px;
+    margin-left: 40px;
+    padding-left: 10px;
+}
+.button{
+    width: 200px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    margin-left: 40px;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+.hire{
+    width: 100px;
+    height: 40px;
+    background-color: blue;
+    border: none;
+    border-radius: 10px;
+    margin-left: 200px;
+    margin-top: 40px;
+}
+.c2{
+    width: 50%;
+    height: 100vh;
+    padding-top: 150px;
+    padding-left: 20px;
+}
+.de{
+    font-size: 50px;
+    color: blue;
+}
+.vp{
+    width: 150px;
+    height: 50px;
+    background-color: blue;
+    border: none;
+    border-radius: 15px;
+    margin-right: 40px;
+    color:white;
+}
+.vr{
+     width: 150px;
+    height: 50px;
+    border: none;
+    background-color:black;
+    border-radius: 15px;
+    color:white;
+}
+.c3{
+    width: 30%;
+    height: 100vh;
+    /* background-color: antiquewhite; */
+}
+.ph{
+    width: 400px;
+    height: 400px;
+    margin-top: 200px;
+    margin-right: 50px;
+    /* background-color: black; */
+}
